@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... defi
 - 🌱 I’m currently learning ... blockchain
 - 💞️ I’m looking to collaborate on ... cyberwealth.pro
-- 📫 How to reach me ...
+- 📫 How to reach me ... marsidorowicz@gmail.com
 
 <!---
 marsidorowicz/marsidorowicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
